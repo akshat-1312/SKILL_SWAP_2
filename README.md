@@ -100,5 +100,5 @@ Includes **Run Live Demo**, **Reset Demo**, **Export Demo Log**, and **offline l
 
 ### Download APK
 Get the latest build from **Releases**:  
-[📦 Download SkillSwap demo APK](https://github.com/akshat-1312/SKILL_SWAP_2/SkillSwap.apk)
+[📦 Download SkillSwap demo APK](https://github.com/akshat-1312/SKILL_SWAP_2/blob/main/SkillSwap.apk)
 
